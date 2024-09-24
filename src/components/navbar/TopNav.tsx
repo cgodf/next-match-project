@@ -34,7 +34,7 @@ export default function TopNav() {
         <NavbarContent justify="end">
           <Button
             as={Link}
-            href="/auth/login"
+            href="/login"
             variant="bordered"
             className="text-white"
           >
