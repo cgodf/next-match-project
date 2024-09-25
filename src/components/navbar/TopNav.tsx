@@ -42,7 +42,7 @@ export default function TopNav() {
           </Button>
           <Button
             as={Link}
-            href="/auth/register"
+            href="/register"
             variant="bordered"
             className="text-white"
           >
